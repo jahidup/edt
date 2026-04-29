@@ -1,0 +1,4 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+body { @apply bg-deep1 text-white font-poppins; }
+.container-x { @apply max-w-6xl mx-auto px-4; }
+.card { @apply bg-deep2/70 rounded-2xl shadow-xl p-6 border border-white/10; }
